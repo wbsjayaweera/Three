@@ -1,2 +1,6 @@
 first line in app
 second line in app
+
+void main(){
+    runApp(MainScreen);
+}
